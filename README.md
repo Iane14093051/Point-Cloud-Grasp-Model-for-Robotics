@@ -1,4 +1,4 @@
-# Point-Cloud-Grasp-Model-for-Robotics
+# Point Cloud Grasp Model for Robotics
 
 ## Acknowledgements
 This code is based on the original implementation by **[Hongzhuo Liang](https://github.com/lianghongzhuo/PointNetGPD)** et al., as described in their paper:
